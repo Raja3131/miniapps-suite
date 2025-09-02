@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+  - apps/*/*
+  - packages/*
+  - configs/*
+
+onlyBuiltDependencies:
+  - sharp

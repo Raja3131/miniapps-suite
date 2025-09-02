@@ -1,0 +1,10 @@
+{
+    "name": "@apps/mini-__APP_NUM__-__APP_SLUG__-server-fastapi",
+    "private": true,
+    "type": "module",
+    "scripts": {
+      "dev": "bash dev.sh",
+      "start": "bash dev.sh --no-reload"
+    }
+  }
+  
